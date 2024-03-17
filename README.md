@@ -2,7 +2,8 @@
 A 2D Snake Game made using OpenGL library in C++
 
 **After cloning the repository in Ubuntu, run the following commands to install everything you need to run it:**
-sudo apt update\n
+
+sudo apt update
 sudo apt-install build-essential
 sudo apt-get install freeglut3-dev
 sudo apt-get install glew-utils
