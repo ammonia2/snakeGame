@@ -13,3 +13,5 @@ To make the .exe file, type **make** in the terminal in project directory
 Then type **./game-release**
 
 You can play the Game using the Arrow-up, down, left and right keys on keyboard and Exit by pressing Esc.
+
+You can edit the Game functionalities in the **game-release.cpp** file
